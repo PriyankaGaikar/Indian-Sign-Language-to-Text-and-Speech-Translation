@@ -1,0 +1,10 @@
+mediapipe
+opencv-python
+tensorflow
+scikit-learn
+matplotlib
+protobuf
+cryptography
+numpy
+googletrans==4.0.0-rc1
+Pillow
